@@ -8,3 +8,9 @@ it help someone else in trying to write their own.
 
 It is entirely contained within a single source file in order to make it easier to compile and it is written using the Swing toolkit for window creation and 
 graphics.
+
+To build the ray-caster, make sure that Java and the Java Development Kit are installed, then simply run
+```
+javac /src/main/raycast.java
+java raycast
+```
