@@ -1,6 +1,4 @@
 # ray-caster
-Written in Java using Swing
-
 <p align="center">
   <img src="https://github.com/stephpavlou/ray-caster/blob/main/ray-casterdemo.gif">
 </p>
